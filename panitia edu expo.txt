@@ -1,0 +1,67 @@
+1-6
+7-12
+13-18
+19-24
+25-30
+31-36
+37-42
+43-48
+49-54
+55-60
+61-66
+67-72
+73-78
+79-84
+85-90
+91-96
+97-102
+103-108
+109-114
+115-120
+121-126
+127-132
+133-138
+139-144
+145-150
+151-156
+157-162
+163-
+
+
+panitia saintek 8 orang
+panitia soshum 4 orang
+
+
+saintek 1 panitia 12 orang
+soshum 1 panitia 10 orang
+
+data panitia :
+1. Aji +
+2. Devan +
+3. Aini +
+4. Arinda +
+5. Denata +
+6. Adea
+7. Anisa
+8. Ega
+9. salma
+10.nendah
+11.rifdah
+12. melani
+
+
+Soshum
+1. Aji     (60 halaman) (10 peserta)
+2. Arinda  (60 halaman)
+3. Aini    (60 halaman)
+4. Denata  (60 halaman)
+
+Saintek
+1. Devan  (72 halaman) (12 peserta)
+2. Adea   (72 halaman)
+3. Anisa  (72 halaman)
+4. EGa    (72 halaman)
+5. Salma  (72 halaman)
+6. nendah (72 halaman)
+7. rifdah (72 halaman)
+8. Melani (72 halaman)
